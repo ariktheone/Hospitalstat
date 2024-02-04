@@ -1,0 +1,133 @@
+/* doctors.css */
+
+.doctor-container {
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 0.2rem;
+  width: 100%;
+  box-sizing: border-box;
+  transition: transform 0.3s ease-in-out;
+  background-color: white;
+}
+
+.doctor-container:hover {
+  transform: scale(1.02);
+}
+
+.text-sky-200 {
+  color: #3498db;
+}
+
+.doctor-details {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Filter container styles */
+.filter-container {
+  margin-bottom: 20px;
+}
+
+.filter-container label {
+  margin-right: 10px;
+}
+
+/* Doctors list styles */
+.doctors-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.doctor-fact {
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  transition: transform 0.3s ease-in-out;
+  background-color: white;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.doctor-fact .grid-item {
+  flex: 1;
+  text-align: center;
+  padding: 0rem 2rem;
+}
+
+.grid-item > h2 {
+  color: #4789fc;
+  font-weight: 800;
+  margin-top: 1rem;
+  margin-bottom: 0;
+  padding: 0rem;
+}
+
+.grid-item > p {
+  margin-top: 0.2rem;
+}
+
+/* Dropdown container styles */
+.dropdown-container {
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  transition: transform 0.3s ease-in-out;
+  background-color: white;
+}
+
+.dropdown-container:hover {
+  transform: scale(1.02);
+}
+
+.dropdown {
+  width: 10rem;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.drop-option {
+  margin-left: 2rem;
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.searchBar {
+  margin-bottom: 1rem;
+}
+
+.searchDoctor {
+  width: 100%;
+  border: 1px solid black;
+  font-size: 1.5rem;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.checkbox-container {
+  display: flex;
+  margin-left: 2rem;
+  gap: 5rem;
+  flex-wrap: wrap;
+}
+
+.checkbox-container p {
+  display: inline;
+  margin-left: 0.55rem;
+}

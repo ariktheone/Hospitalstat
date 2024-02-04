@@ -1,0 +1,274 @@
+[
+    {
+        "id": "1",
+        "bloodType": "A+",
+        "bagCount": 50,
+        "details": [
+            {
+                "hospitalOrBloodBank": "City Blood Bank",
+                "fees": "₹1000",
+                "collectingHours": "9:00 AM - 5:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Unity Hospital",
+                "fees": "₹0",
+                "collectingHours": "8:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "bloodType": "O-",
+        "bagCount": 30,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Saviour Blood Bank",
+                "fees": "₹100",
+                "collectingHours": "10:00 AM - 4:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "LifeCare Hospital",
+                "fees": "₹1000",
+                "collectingHours": "9:00 AM - 5:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Radiant Life Hospital",
+                "fees": "₹0",
+                "collectingHours": "8:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "bloodType": "B+",
+        "bagCount": 40,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Hope Blood Bank",
+                "fees": "₹0",
+                "collectingHours": "8:00 AM - 4:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Sunshine Hospital",
+                "fees": "₹1000",
+                "collectingHours": "10:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "bloodType": "AB-",
+        "bagCount": 25,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Eternal Life Hospital",
+                "fees": "₹1000",
+                "collectingHours": "8:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "bloodType": "A-",
+        "bagCount": 35,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Gratitude Blood Bank",
+                "fees": "₹1000",
+                "collectingHours": "10:00 AM - 5:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Zenith Hospital",
+                "fees": "₹0",
+                "collectingHours": "9:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "bloodType": "O+",
+        "bagCount": 20,
+        "details": [
+            {
+                "hospitalOrBloodBank": "United Blood Services",
+                "fees": "₹0",
+                "collectingHours": "8:00 AM - 4:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Caring Hands Hospital",
+                "fees": "₹1000",
+                "collectingHours": "10:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "bloodType": "B-",
+        "bagCount": 28,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Purity Blood Center",
+                "fees": "₹1000",
+                "collectingHours": "9:00 AM - 5:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Radiant Life Hospital",
+                "fees": "₹0",
+                "collectingHours": "8:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "8",
+        "bloodType": "AB+",
+        "bagCount": 18,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Hopeful Blood Center",
+                "fees": "₹500",
+                "collectingHours": "10:00 AM - 4:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Elysium Hospital",
+                "fees": "₹750",
+                "collectingHours": "8:00 AM - 5:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "9",
+        "bloodType": "AB-",
+        "bagCount": 12,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Serene Blood Bank",
+                "fees": "₹0",
+                "collectingHours": "9:00 AM - 3:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Tranquil Hospital",
+                "fees": "₹1000",
+                "collectingHours": "7:00 AM - 5:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "10",
+        "bloodType": "O+",
+        "bagCount": 22,
+        "details": [
+            {
+                "hospitalOrBloodBank": "United Blood Services",
+                "fees": "₹0",
+                "collectingHours": "8:00 AM - 4:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Caring Hands Hospital",
+                "fees": "₹750",
+                "collectingHours": "10:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "11",
+        "bloodType": "O-",
+        "bagCount": 15,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Safeguard Blood Bank",
+                "fees": "₹1000",
+                "collectingHours": "10:00 AM - 4:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Guardian Hospital",
+                "fees": "₹1000",
+                "collectingHours": "9:00 AM - 5:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "12",
+        "bloodType": "Duffy",
+        "bagCount": 8,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Duffy Blood Center",
+                "fees": "₹500",
+                "collectingHours": "9:00 AM - 3:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Harmony Hospital",
+                "fees": "₹750",
+                "collectingHours": "8:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "13",
+        "bloodType": "K",
+        "bagCount": 10,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Kell Blood Bank",
+                "fees": "₹750",
+                "collectingHours": "10:00 AM - 4:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Kindred Hospital",
+                "fees": "₹500",
+                "collectingHours": "9:00 AM - 5:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "14",
+        "bloodType": "Lutheran",
+        "bagCount": 7,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Lutheran Blood Center",
+                "fees": "₹1000",
+                "collectingHours": "8:00 AM - 4:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Luminous Hospital",
+                "fees": "₹0",
+                "collectingHours": "10:00 AM - 6:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "15",
+        "bloodType": "Kidd",
+        "bagCount": 5,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Kidd Blood Bank",
+                "fees": "₹500",
+                "collectingHours": "9:00 AM - 3:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Kinetic Hospital",
+                "fees": "₹750",
+                "collectingHours": "7:00 AM - 5:00 PM"
+            }
+        ]
+    },
+    {
+        "id": "16",
+        "bloodType": "Bombay",
+        "bagCount": 3,
+        "details": [
+            {
+                "hospitalOrBloodBank": "Bombay Blood Center",
+                "fees": "₹0",
+                "collectingHours": "8:00 AM - 4:00 PM"
+            },
+            {
+                "hospitalOrBloodBank": "Benevolent Hospital",
+                "fees": "₹1000",
+                "collectingHours": "10:00 AM - 6:00 PM"
+            }
+        ]
+    }
+]

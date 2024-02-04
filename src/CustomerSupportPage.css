@@ -1,0 +1,50 @@
+/* Container Styles */
+.customer-support-container {
+    height: 40vh;
+    overflow-y: scroll;
+  }
+  
+  /* Main Table Styles */
+  .support-main-table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Table Header Styles */
+  .customer-name-header,
+  .issue-header,
+  .resolution-header {
+    padding: 15px;
+    background-color: #B9Bcbe;
+    color: #000;
+    text-align: left;
+  }
+  
+  /* Table Body Styles */
+  .customer-name,
+  .issue,
+  .resolution {
+    padding: 15px;
+    background-color: white;
+    color: #000;
+  }
+  
+  /* Hover Effect */
+  tbody tr:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+  
+  /* Responsive Styles */
+  @media (max-width: 768px) {
+    .customer-name-header,
+    .issue-header,
+    .resolution-header,
+    .customer-name,
+    .issue,
+    .resolution {
+      padding: 10px;
+      font-size: 14px;
+    }
+  }
+  

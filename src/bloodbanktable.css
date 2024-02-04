@@ -1,0 +1,56 @@
+
+
+
+.container {
+	
+	height:60vh;
+    overflow-y: scroll;
+
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+	
+	box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+
+thead{
+    position: sticky;
+    top:0;
+    z-index:1;    
+}
+
+th,
+td {
+	padding: 15px;
+	background-color: rgba(255,255,255,0.2);
+	color: #000;
+}
+
+th {
+    border-collapse: collapse;
+    
+}
+.Detailsofblood{
+  text-align:  center;
+
+}
+
+thead {
+	th {
+		background-color: #B9Bcbe;
+	}
+}
+
+tbody {
+	tr {
+		&:hover {
+			background-color: rgba(255,255,255,0.3);
+		}
+	}
+	
+}
+tbody> tr{
+  border-bottom:1px solid black;
+} 

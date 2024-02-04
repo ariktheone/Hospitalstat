@@ -1,0 +1,49 @@
+/* CitySelectionDetails.css */
+
+.container {
+    height: 40vh;
+    overflow-y: scroll;
+  }
+  
+  .table-container {
+    margin-bottom: 1rem;
+  }
+  
+  .table-link {
+    width: 100%;
+    border: 1px solid black;
+    font-size: 1.5rem;
+    text-decoration: none;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  thead {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  }
+  
+  th,
+  td {
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #000;
+  }
+  
+  th {
+    text-align: left;
+  }
+  
+  thead th {
+    background-color: #b9bcbe;
+  }
+  
+  tbody tr:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+  

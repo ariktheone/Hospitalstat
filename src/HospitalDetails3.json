@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "wardName": "Orthopedic Ward",
+        "vacancyNormalBeds": 15,
+        "vacancyForCabis": 3,
+        "feesPerDay": "₹1800",
+        "visitingHours": "9:00 AM - 6:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "2",
+        "wardName": "Neurology Ward",
+        "vacancyNormalBeds": 12,
+        "vacancyForCabis": 2,
+        "feesPerDay": "₹2200",
+        "visitingHours": "10:00 AM - 6:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "3",
+        "wardName": "Cardiology Ward",
+        "vacancyNormalBeds": 18,
+        "vacancyForCabis": 4,
+        "feesPerDay": "₹1700",
+        "visitingHours": "8:00 AM - 4:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "4",
+        "wardName": "Pediatric Ward",
+        "vacancyNormalBeds": 20,
+        "vacancyForCabis": 5,
+        "feesPerDay": "₹1500",
+        "visitingHours": "8:00 AM - 7:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "5",
+        "wardName": "Oncology Ward",
+        "vacancyNormalBeds": 10,
+        "vacancyForCabis": 1,
+        "feesPerDay": "₹2500",
+        "visitingHours": "10:00 AM - 5:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "6",
+        "wardName": "Gastroenterology Ward",
+        "vacancyNormalBeds": 8,
+        "vacancyForCabis": 2,
+        "feesPerDay": "₹2800",
+        "visitingHours": "9:00 AM - 6:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "7",
+        "wardName": "ENT Ward",
+        "vacancyNormalBeds": 5,
+        "vacancyForCabis": 0,
+        "feesPerDay": "₹3200",
+        "visitingHours": "Restricted",
+        "attendeesAllowed": false
+    },
+    {
+        "id": "8",
+        "wardName": "Psychology Ward",
+        "vacancyNormalBeds": 14,
+        "vacancyForCabis": 3,
+        "feesPerDay": "₹2100",
+        "visitingHours": "10:00 AM - 6:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "9",
+        "wardName": "Dermatology Ward",
+        "vacancyNormalBeds": 6,
+        "vacancyForCabis": 1,
+        "feesPerDay": "₹3000",
+        "visitingHours": "9:00 AM - 5:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "10",
+        "wardName": "Urology Ward",
+        "vacancyNormalBeds": 16,
+        "vacancyForCabis": 4,
+        "feesPerDay": "₹1900",
+        "visitingHours": "8:00 AM - 7:00 PM",
+        "attendeesAllowed": true
+    }
+]

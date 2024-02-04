@@ -1,0 +1,37 @@
+/* CitySelectionDetails.css */
+
+.city-details-container {
+    height: 40vh;
+    overflow-y: scroll;
+}
+
+.city-details-table {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+.city-details-table thead {
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.city-details-table th,
+.city-details-table td {
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: #000;
+}
+
+.city-details-table th {
+    text-align: left;
+}
+
+.city-details-table thead th {
+    background-color: #B9Bcbe;
+}
+
+.city-details-table tbody tr:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}

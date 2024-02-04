@@ -1,0 +1,114 @@
+/* ambulance.css */
+
+.ambulance-container {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 1.5rem;
+    width: 100%;
+    box-sizing: border-box;
+    transition: transform 0.3s ease-in-out;
+    background-color: white;
+  }
+  
+  .ambulance-container:hover {
+    transform: scale(1.02);
+  }
+  
+  .text-sky-200 {
+    color: #3498db;
+  }
+  
+  .ambulance-details {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .ambulance-fact {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    transition: transform 0.3s ease-in-out;
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 1rem;
+    padding: 1rem;
+  }
+  
+  .ambulance-fact .grid-item {
+    flex: 1;
+    text-align: center;
+    padding: 0rem 2rem;
+  }
+  .grid-item >h2{
+    color: #4789fc;
+    font-weight: 800;
+    margin-top: 1rem ;
+    margin-bottom: 0;
+    padding: 0rem;
+  }
+  .grid-item >p{
+    margin-top: 0.2rem;
+  }
+  
+  .space-container {
+    height: 20px; /* Adjust the space height as needed */
+  }
+  
+  .dropdown-container {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    transition: transform 0.3s ease-in-out;
+    background-color: white;
+  }
+  
+  .dropdown-container:hover {
+    transform: scale(1.02);
+  }
+  
+  .dropdown {
+    width: 10rem;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .drop-option {
+    margin-left: 2rem;
+    display: flex;
+    gap: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  .checkbox-container {
+    display: flex;
+    margin-left: 2rem;
+    gap: 5rem;
+  }
+  
+  .checkbox-container label {
+    display: flex;
+    align-items: center;
+  }
+  
+  .checkbox-container p {
+    margin-left: 0.55rem;
+  }
+  
+  .checkbox-container input {
+    margin-right: 0.5rem;
+  }
+  

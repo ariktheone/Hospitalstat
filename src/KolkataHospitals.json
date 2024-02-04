@@ -1,0 +1,125 @@
+[
+    {
+      "id": 1,
+      "hospitalName": "City Hospital",
+      "totalDoctors": 50,
+      "totalBeds": 200,
+      "hospitalType": "General",
+      "address": "123, Main Street, Kolkata"
+    },
+    {
+      "id": 2,
+      "hospitalName": "Specialty Care Center",
+      "totalDoctors": 30,
+      "totalBeds": 150,
+      "hospitalType": "Specialty",
+      "address": "456, Central Avenue, Kolkata"
+    },
+    {
+      "id": 3,
+      "hospitalName": "Government Medical College",
+      "totalDoctors": 100,
+      "totalBeds": 500,
+      "hospitalType": "Government",
+      "address": "789, Hospital Road, Kolkata"
+    },
+    
+    {
+      "id": 4,
+      "hospitalName": "Sunshine Hospital",
+      "totalDoctors": 40,
+      "totalBeds": 180,
+      "hospitalType": "General",
+      "address": "101, Sunshine Avenue, Kolkata"
+    },
+    {
+      "id": 5,
+      "hospitalName": "Heartbeat Clinic",
+      "totalDoctors": 20,
+      "totalBeds": 100,
+      "hospitalType": "Cardiology",
+      "address": "202, Heart Street, Kolkata"
+    },
+    {
+      "id": 6,
+      "hospitalName": "Children's Hospital",
+      "totalDoctors": 60,
+      "totalBeds": 250,
+      "hospitalType": "Pediatrics",
+      "address": "303, Kid Lane, Kolkata"
+    },
+    {
+      "id": 7,
+      "hospitalName": "OrthoCare Center",
+      "totalDoctors": 35,
+      "totalBeds": 120,
+      "hospitalType": "Orthopedics",
+      "address": "404, Bone Avenue, Kolkata"
+    },
+    {
+      "id": 8,
+      "hospitalName": "Psych Wellness Clinic",
+      "totalDoctors": 25,
+      "totalBeds": 80,
+      "hospitalType": "Psychiatry",
+      "address": "505, Mind Street, Kolkata"
+    },
+    {
+      "id": 9,
+      "hospitalName": "Dental Care Hub",
+      "totalDoctors": 15,
+      "totalBeds": 60,
+      "hospitalType": "Dentistry",
+      "address": "606, Tooth Lane, Kolkata"
+    },
+    {
+      "id": 10,
+      "hospitalName": "Eye Health Institute",
+      "totalDoctors": 50,
+      "totalBeds": 200,
+      "hospitalType": "Ophthalmology",
+      "address": "707, Vision Road, Kolkata"
+    },
+    {
+      "id": 11,
+      "hospitalName": "SkinCare Clinic",
+      "totalDoctors": 30,
+      "totalBeds": 150,
+      "hospitalType": "Dermatology",
+      "address": "808, Glow Lane, Kolkata"
+    },
+    {
+      "id": 12,
+      "hospitalName": "Women's Wellness Center",
+      "totalDoctors": 80,
+      "totalBeds": 350,
+      "hospitalType": "Gynecology",
+      "address": "909, Blossom Street, Kolkata"
+    },
+    {
+      "id": 13,
+      "hospitalName": "Neurology Institute",
+      "totalDoctors": 45,
+      "totalBeds": 180,
+      "hospitalType": "Neurology",
+      "address": "1010, Brain Avenue, Kolkata"
+    },
+    {
+      "id": 14,
+      "hospitalName": "UroCare Hospital",
+      "totalDoctors": 28,
+      "totalBeds": 120,
+      "hospitalType": "Urology",
+      "address": "1111, Kidney Lane, Kolkata"
+    },
+    {
+      "id": 15,
+      "hospitalName": "Gastro Health Center",
+      "totalDoctors": 55,
+      "totalBeds": 220,
+      "hospitalType": "Gastroenterology",
+      "address": "1212, Digest Street, Kolkata"
+    }
+    
+  ]
+  

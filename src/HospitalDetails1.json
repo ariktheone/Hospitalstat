@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "wardName": "General Ward",
+        "vacancyNormalBeds": 20,
+        "vacancyForCabis": 5,
+        "feesPerDay": "₹1500",
+        "visitingHours": "9:00 AM - 6:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "2",
+        "wardName": "Specialized Ward",
+        "vacancyNormalBeds": 10,
+        "vacancyForCabis": 3,
+        "feesPerDay": "₹2500",
+        "visitingHours": "10:00 AM - 7:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "3",
+        "wardName": "Intensive Care Unit (ICU)",
+        "vacancyNormalBeds": 2,
+        "vacancyForCabis": 0,
+        "feesPerDay": "₹5000",
+        "visitingHours": "Restricted",
+        "attendeesAllowed": false
+    },
+    {
+        "id": "4",
+        "wardName": "Pediatric Ward",
+        "vacancyNormalBeds": 15,
+        "vacancyForCabis": 4,
+        "feesPerDay": "₹2000",
+        "visitingHours": "10:00 AM - 5:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "5",
+        "wardName": "Maternity Ward",
+        "vacancyNormalBeds": 12,
+        "vacancyForCabis": 2,
+        "feesPerDay": "₹1800",
+        "visitingHours": "9:00 AM - 8:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "6",
+        "wardName": "Orthopedic Ward",
+        "vacancyNormalBeds": 18,
+        "vacancyForCabis": 6,
+        "feesPerDay": "₹2200",
+        "visitingHours": "8:00 AM - 7:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "7",
+        "wardName": "Cardiology Ward",
+        "vacancyNormalBeds": 8,
+        "vacancyForCabis": 1,
+        "feesPerDay": "₹3000",
+        "visitingHours": "10:00 AM - 6:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "8",
+        "wardName": "Neurology Ward",
+        "vacancyNormalBeds": 10,
+        "vacancyForCabis": 2,
+        "feesPerDay": "₹2800",
+        "visitingHours": "9:00 AM - 5:00 PM",
+        "attendeesAllowed": true
+    },
+    {
+        "id": "9",
+        "wardName": "Oncology Ward",
+        "vacancyNormalBeds": 5,
+        "vacancyForCabis": 0,
+        "feesPerDay": "₹4500",
+        "visitingHours": "Restricted",
+        "attendeesAllowed": false
+    },
+    {
+        "id": "10",
+        "wardName": "ENT Ward",
+        "vacancyNormalBeds": 7,
+        "vacancyForCabis": 2,
+        "feesPerDay": "₹1800",
+        "visitingHours": "8:00 AM - 6:00 PM",
+        "attendeesAllowed": true
+    }
+]

@@ -1,0 +1,203 @@
+[
+    {
+      "id": 1,
+      "cityName": "Mumbai",
+      "superSpecialistHospitals": 20,
+      "govtHospitals": 15,
+      "privateHospitals": 50,
+      "clinics": 100
+    },
+    {
+      "id": 2,
+      "cityName": "Delhi",
+      "superSpecialistHospitals": 25,
+      "govtHospitals": 20,
+      "privateHospitals": 40,
+      "clinics": 120
+    },
+    {
+      "id": 3,
+      "cityName": "Bangalore",
+      "superSpecialistHospitals": 18,
+      "govtHospitals": 12,
+      "privateHospitals": 60,
+      "clinics": 80
+    },
+    {
+      "id": 4,
+      "cityName": "Chennai",
+      "superSpecialistHospitals": 22,
+      "govtHospitals": 18,
+      "privateHospitals": 45,
+      "clinics": 90
+    },
+    {
+      "id": 5,
+      "cityName": "Kolkata",
+      "superSpecialistHospitals": 15,
+      "govtHospitals": 25,
+      "privateHospitals": 35,
+      "clinics": 110
+    },
+    {
+      "id": 6,
+      "cityName": "Hyderabad",
+      "superSpecialistHospitals": 20,
+      "govtHospitals": 22,
+      "privateHospitals": 55,
+      "clinics": 95
+    },
+    {
+      "id": 7,
+      "cityName": "Pune",
+      "superSpecialistHospitals": 17,
+      "govtHospitals": 14,
+      "privateHospitals": 48,
+      "clinics": 105
+    },
+    {
+      "id": 8,
+      "cityName": "Ahmedabad",
+      "superSpecialistHospitals": 23,
+      "govtHospitals": 16,
+      "privateHospitals": 42,
+      "clinics": 115
+    },
+    {
+      "id": 9,
+      "cityName": "Jaipur",
+      "superSpecialistHospitals": 19,
+      "govtHospitals": 19,
+      "privateHospitals": 38,
+      "clinics": 125
+    },
+    {
+      "id": 10,
+      "cityName": "Lucknow",
+      "superSpecialistHospitals": 21,
+      "govtHospitals": 24,
+      "privateHospitals": 33,
+      "clinics": 85
+    },
+    {
+      "id": 11,
+      "cityName": "Kanpur",
+      "superSpecialistHospitals": 16,
+      "govtHospitals": 17,
+      "privateHospitals": 58,
+      "clinics": 92
+    },
+    {
+      "id": 12,
+      "cityName": "Nagpur",
+      "superSpecialistHospitals": 24,
+      "govtHospitals": 23,
+      "privateHospitals": 47,
+      "clinics": 88
+    },
+    {
+      "id": 13,
+      "cityName": "Indore",
+      "superSpecialistHospitals": 18,
+      "govtHospitals": 20,
+      "privateHospitals": 50,
+      "clinics": 100
+    },
+    {
+      "id": 14,
+      "cityName": "Bhopal",
+      "superSpecialistHospitals": 22,
+      "govtHospitals": 15,
+      "privateHospitals": 40,
+      "clinics": 120
+    },
+    {
+      "id": 15,
+      "cityName": "Surat",
+      "superSpecialistHospitals": 15,
+      "govtHospitals": 25,
+      "privateHospitals": 35,
+      "clinics": 110
+    },
+    {
+      "id": 16,
+      "cityName": "Visakhapatnam",
+      "superSpecialistHospitals": 20,
+      "govtHospitals": 22,
+      "privateHospitals": 55,
+      "clinics": 95
+    },
+    {
+      "id": 17,
+      "cityName": "Thane",
+      "superSpecialistHospitals": 17,
+      "govtHospitals": 14,
+      "privateHospitals": 48,
+      "clinics": 105
+    },
+    {
+      "id": 18,
+      "cityName": "Coimbatore",
+      "superSpecialistHospitals": 23,
+      "govtHospitals": 16,
+      "privateHospitals": 42,
+      "clinics": 115
+    },
+    {
+      "id": 19,
+      "cityName": "Madurai",
+      "superSpecialistHospitals": 19,
+      "govtHospitals": 19,
+      "privateHospitals": 38,
+      "clinics": 125
+    },
+    {
+      "id": 20,
+      "cityName": "Varanasi",
+      "superSpecialistHospitals": 21,
+      "govtHospitals": 24,
+      "privateHospitals": 33,
+      "clinics": 85
+    },
+    {
+      "id": 21,
+      "cityName": "Agra",
+      "superSpecialistHospitals": 16,
+      "govtHospitals": 17,
+      "privateHospitals": 58,
+      "clinics": 92
+    },
+    {
+      "id": 22,
+      "cityName": "Allahabad",
+      "superSpecialistHospitals": 24,
+      "govtHospitals": 23,
+      "privateHospitals": 47,
+      "clinics": 88
+    },
+    {
+      "id": 23,
+      "cityName": "Amritsar",
+      "superSpecialistHospitals": 18,
+      "govtHospitals": 20,
+      "privateHospitals": 50,
+      "clinics": 100
+    },
+    {
+      "id": 24,
+      "cityName": "Jodhpur",
+      "superSpecialistHospitals": 22,
+      "govtHospitals": 15,
+      "privateHospitals": 40,
+      "clinics": 120
+    },
+    {
+      "id": 25,
+      "cityName": "Gwalior",
+      "superSpecialistHospitals": 15,
+      "govtHospitals": 25,
+      "privateHospitals": 35,
+      "clinics": 110
+    }
+  ]
+  
